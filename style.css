@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(to right, #008380, #00B4DB);
+    color: #514b64;
+}
+
+.custom-seperator{
+    width: 5rem;
+
+}
